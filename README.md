@@ -7,14 +7,15 @@
 
 - 🌱 I’m currently learning **React, Next.JS, C, Thue**
 
-- 📫 How to reach me **steinhoror@gmail.com**
+- 📫 How to reach me <a href="https://steinhorror.tk/discord" target="blank">Discord</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://steinhorror.tk/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://steinhorror.tk/discord" height="30" width="40" /></a>
 <a href="https://codepen.io/steinhorror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="steinhorror" height="30" width="40" /></a>
 <a href="https://twitter.com/steinhorror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="steinhorror" height="30" width="40" /></a>
 <a href="https://codesandbox.com/steinhorror" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="steinhorror" height="30" width="40" /></a>
-<a href="https://steinhorror.tk/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://steinhorror.tk/discord" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools that i use:</h3>
