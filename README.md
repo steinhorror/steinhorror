@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Steinhorror aka Jan</h1> and sometimes DSL Modem
+<h1 align="center">Hi 👋, I'm Steinhorror</h1>
 <h3 align="center">A passionate fullstack developer from Germany</h3>
 
 <p align="left"> <a href="https://twitter.com/steinhorror" target="blank"><img src="https://img.shields.io/twitter/follow/steinhorror?logo=twitter&style=for-the-badge" alt="steinhorror" /></a> </p>
