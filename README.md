@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **Discord: Steinhorror#4994**
+- 📫 How to reach me **Discord: Steinhorror#8410**
 
 - ⚡ Fun fact **Fortran (FORmula TRANslation) was the first coding language created by John Backus and his team at IBM in the 1950s.**
 
