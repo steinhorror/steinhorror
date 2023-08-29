@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Steinhorror from Germany<br><br>- 🔭 I’m a student in year 11<br>- 📚 I'm currently learning BunJs</p>
+<p align="left">I'm Steinhorror from Germany<br><br>- 🔭 I’m a student in year 12<br>- 📚 I'm currently learning Photogrammetry and other 3D Scanning Methods</p>
 
 ###
 
