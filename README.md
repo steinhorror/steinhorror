@@ -105,6 +105,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=steinhorror&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Steinhorror&layout=donut&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" alt="GitHub Streak" />
 </div>
 
 ###
